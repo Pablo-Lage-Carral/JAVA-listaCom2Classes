@@ -1,0 +1,16 @@
+Êþº¾   = 1  br/com/fiap/beans/Cliente  java/lang/Object nome Ljava/lang/String; idade I peso D endereco Lbr/com/fiap/beans/Endereco; <init> ()V Code
+   
+  LineNumberTable LocalVariableTable this Lbr/com/fiap/beans/Cliente; 3(Ljava/lang/String;IDLbr/com/fiap/beans/Endereco;)V	    	    	   	 
+	     getNome ()Ljava/lang/String; setNome (Ljava/lang/String;)V getIdade ()I setIdade (I)V getPeso ()D setPeso (D)V getEndereco ()Lbr/com/fiap/beans/Endereco; setEndereco (Lbr/com/fiap/beans/Endereco;)V 
+SourceFile Cliente.java !                 	 
+        
+  
+      3     *· ±       
+                    
+      €     *· *+µ *µ *)µ *µ ±              	           4                        	 
+                /     *´ °                         ! "     >     *+µ ±       
+                          # $     /     *´ ¬           !              % &     >     *µ ±       
+    $  %                    ' (     /     *´ ¯           '              ) *     >     *'µ ±       
+    *  +                	 
+   + ,     /     *´ °           -              - .     >     *+µ ±       
+    0  1                    /    0
