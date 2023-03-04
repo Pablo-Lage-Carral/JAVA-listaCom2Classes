@@ -1,0 +1,28 @@
+Êþº¾   = +  br/com/fiap/beans/Endereco  java/lang/Object 
+logradouro Ljava/lang/String; numero I bairro estado <init> ()V Code
+     LineNumberTable LocalVariableTable this Lbr/com/fiap/beans/Endereco; :(Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V	    	    	   	 	   
+  
+getLogradouro ()Ljava/lang/String; 
+setLogradouro (Ljava/lang/String;)V 	getNumero ()I 	setNumero (I)V 	getBairro 	setBairro 	getEstado 	setEstado 
+SourceFile 
+Endereco.java !                 	     
+    
+     
+   3     *· ±       
+      
+                 
+   €     *· *+µ *µ *-µ *µ ±              	           4                        	      
+       
+   /     *´ °                             
+   >     *+µ ±       
+                           ! "  
+   /     *´ ¬           "              # $  
+   >     *µ ±       
+    %  &                    %   
+   /     *´ °           (              &    
+   >     *+µ ±       
+    +  ,                	    '   
+   /     *´ °           .              (    
+   >     *+µ ±       
+    1  2                
+    )    *
